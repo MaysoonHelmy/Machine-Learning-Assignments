@@ -1,9 +1,6 @@
-```markdown
 # Machine Learning Assignments
 
 This repository contains three machine learning assignments. Each focuses on a different core concept using Python and popular ML libraries.
-
----
 
 ## 📌 Contents
 
@@ -17,7 +14,6 @@ This repository contains three machine learning assignments. Each focuses on a d
   - Hyperparameter tuning for learning rate and epochs
 - **Usage**: Best for understanding how linear models learn
 
----
 
 ### 2. Polynomial Regression
 - **File**: `Polynomial Regression.py`
@@ -29,7 +25,6 @@ This repository contains three machine learning assignments. Each focuses on a d
   - Normalized MSE for fair comparison
 - **Usage**: Learn how model complexity affects performance
 
----
 
 ### 3. SVM Image Classification
 - **File**: `SVM.py`
@@ -42,7 +37,6 @@ This repository contains three machine learning assignments. Each focuses on a d
 - **Classes**:
   - `accordian`, `dollar_bill`, `motorbike`, `soccer_ball`
 - **Dataset structure**:
-```
 
 
 ## 🔧 Requirements
@@ -65,11 +59,8 @@ python "Polynomial Regression.py"
 python "SVM.py"
 ```
 
----
 
 ## 🧾 License
 
 Academic use only
 
-```
-```
